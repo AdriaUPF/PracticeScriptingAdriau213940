@@ -1,0 +1,1 @@
+I couldnt upload the libraries to github it gives error, but it should be possible to execute the .exe and see the code, even i maybe there ae errors, i added a firstperson movement, use z to change, and move and jump with wasd and space.
